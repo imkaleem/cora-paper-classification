@@ -67,6 +67,8 @@ Handled by `data_preparation.py`, includes:
 - Visual insights with `viz.py`
 
 ---
+## Conclusion
+- To train all the models (mentioned) conveniently, just run the notebook `task_clean_new.ipynb` as it is. It will train and evaluate the models and visualise the results.
 
 ## Future Improvements
 - Optimize hyperparameters for better GCN/GAT performance  
