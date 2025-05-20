@@ -21,7 +21,7 @@ All function calls—from **data preprocessing** to **exploratory data analysis 
 | `predictions.tsv`       | Stores general model predictions for later analysis.                        |
 | `predictions_gat.tsv`   | Predictions generated using the GAT model.                                  |
 | `predictions_gcn.tsv`   | Predictions generated using the GCN model.                                  |
-| `predictions_gcns.tsv`  | Extended GCN model predictions (possibly fine-tuned).                        |
+| `predictions_gcns.tsv`  | Extended GCN model predictions.                        |
 | `predictions_lr.tsv`    | Predictions from Logistic Regression.                                       |
 | `predictions_rf.tsv`    | Predictions from Random Forest.                                             |
 | `requirements.txt`      | Lists necessary dependencies to run the project.                            |
